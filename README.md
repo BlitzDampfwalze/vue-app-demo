@@ -1,7 +1,8 @@
 # ⚡ Interactive US Electricity Demand Map DEMO static data
 
 A Vue 3 + Vite application featuring an interactive ECharts map. This dashboard visualizes city-level electricity demand across the United States with real-time data simulation and grid transmission lines.
-
+![Main Dashboard Preview](./screenshots/demoscreen0.png)
+![Main Dashboard Preview](./screenshots/demoscreen1.png)
 ## 🛠 Prerequisites
 
 Before you begin, ensure you have the following installed:
